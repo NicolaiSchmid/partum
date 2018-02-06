@@ -18,10 +18,9 @@
         "eslint-config-prettier": "^2.9.0",
         "eslint-config-wasc": "^0.1.9",
         "eslint-plugin-prettier": "^2.5.0",
-        "execa": "^0.9.0",
         "globby": "^7.1.1",
         "prettier": "^1.10.2",
-        "then-fs": "^2.0.0"
+        "shelljs": "^0.8.1"
     },
     "repository": "git@github.com:NicolaiSchmid/partum.git",
     "private": false
