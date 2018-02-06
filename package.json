@@ -6,7 +6,8 @@
     "scripts": {
         "lint": "eslint -c ./config/.eslintrc.js .",
         "format": "prettier --config ./config/.prettierrc.json --write './**/*.{js,json}'",
-        "commit": "node ./bin commit"
+        "commit": "node ./bin commit",
+        "test": "echo 'No Tests specified'"
     },
     "bin": {
         "partum": "./bin/index.js"
