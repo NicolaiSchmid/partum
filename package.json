@@ -1,6 +1,6 @@
 {
     "name": "partum",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Nicolai Schmid <nicolai@schmid.uno>",
     "license": "APACHE",
     "scripts": {
