@@ -1,27 +1,27 @@
 {
-    "name": "partum",
-    "version": "0.1.1",
-    "author": "Nicolai Schmid <nicolai@schmid.uno>",
-    "license": "APACHE",
-    "scripts": {
-        "lint": "eslint -c ./config/.eslintrc.js .",
-        "format": "prettier --config ./config/.prettierrc.json --write './**/*.{js,json}'",
-        "commit": "node ./bin commit",
-        "test": "echo 'No Tests specified'"
-    },
-    "bin": {
-        "partum": "./bin/index.js"
-    },
-    "dependencies": {
-        "chalk": "^2.3.0",
-        "eslint": "^4.16.0",
-        "eslint-config-prettier": "^2.9.0",
-        "eslint-config-wasc": "^0.1.9",
-        "eslint-plugin-prettier": "^2.5.0",
-        "globby": "^7.1.1",
-        "prettier": "^1.10.2",
-        "shelljs": "^0.8.1"
-    },
-    "repository": "git@github.com:NicolaiSchmid/partum.git",
-    "private": false
+  "name": "partum",
+  "version": "0.1.2",
+  "author": "Nicolai Schmid <nicolai@schmid.uno>",
+  "license": "APACHE",
+  "scripts": {
+    "lint": "eslint -c ./config/.eslintrc.js .",
+    "format": "prettier --config ./config/.prettierrc.json --write './**/*.{js,json}'",
+    "commit": "node ./bin commit",
+    "test": "echo 'No Tests specified'"
+  },
+  "bin": {
+    "partum": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "eslint": "^4.16.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-config-wasc": "^0.1.9",
+    "eslint-plugin-prettier": "^2.5.0",
+    "globby": "^7.1.1",
+    "prettier": "^1.10.2",
+    "shelljs": "^0.8.1"
+  },
+  "repository": "git@github.com:NicolaiSchmid/partum.git",
+  "private": false
 }
