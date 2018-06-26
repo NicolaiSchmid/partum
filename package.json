@@ -14,14 +14,13 @@
   },
   "dependencies": {
     "chalk": "^2.3.0",
-    "eslint": "^4.16.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-config-wasc": "^0.1.9",
-    "eslint-plugin-prettier": "^2.5.0",
     "globby": "^7.1.1",
     "prettier": "^1.10.2",
     "shelljs": "^0.8.1"
   },
   "repository": "git@github.com:NicolaiSchmid/partum.git",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "@wasc/tools": "^1.9.2"
+  }
 }
