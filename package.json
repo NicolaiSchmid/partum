@@ -21,6 +21,6 @@
   "repository": "git@github.com:NicolaiSchmid/partum.git",
   "private": false,
   "devDependencies": {
-    "@wasc/tools": "^1.9.2"
+    "@wasc/tools": "^1.24.0"
   }
 }
