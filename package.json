@@ -16,7 +16,7 @@
     "chalk": "^2.3.0",
     "globby": "^7.1.1",
     "prettier": "^1.10.2",
-    "shelljs": "^0.8.1"
+    "shelljs": "^0.8.5"
   },
   "repository": "git@github.com:NicolaiSchmid/partum.git",
   "private": false,
